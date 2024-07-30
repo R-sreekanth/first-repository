@@ -21,7 +21,7 @@ public class UserEntity
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
      private Integer id;
-	
+	//user name updatwed
 	private String userName;
 	
 	//@Lob
